@@ -15,7 +15,7 @@ BASE_URL = 'https://eastasia.api.cognitive.microsoft.com/face/v1.0/'
 CF.BaseUrl.set(BASE_URL)
 
 personGroupId = 'test_gid'
-personId = 'aa1a1aef-08e6-4461-9dd5-6facb073bc68' # Koh in test_gid
+personId = 'aa1a1aef-08e6-4461-9dd5-6facb073bc68' # Koh's PeronGroup Person ID in test_gid
 
 # Input picture and get faceId
 image_path = input("Enter picture file path > ")
